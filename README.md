@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Ngoni Seremwe
-- 👀 I’m interested in Softaware Development, Front-End, Cloud Developer
+- 👀 I’m interested in Software Development, Front-End, Cloud Developer
 - 🌱 I’m currently learning Cloud 
 - CI/CD Freelancer
 - 💞️ I’m looking to collaborate on Front-end Projects
 - 📫 How to reach me seremwen@gmail.com
-- I am currently located in Zimbabwe
+- I am currently located in Manchester,United Kingdom
 - My personal website with work experience http://seremwen.github.io/
 
 <!---
